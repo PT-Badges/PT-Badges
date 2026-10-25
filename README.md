@@ -31,7 +31,7 @@ You can nominate on either the [Atabook](https://badgetown.atabook.org/) or on [
 
 ###### *"How many times can I be nominated?"* You can only be nominated once in a category (ex: cuddliest, character, prettiest github) but you can be in three different categories. 
 
-###### *"Why haven't I been added yet?"* Lots of reasons. It takes time for me to update. Resend incase the website glitched and I didn't see it. If you submitted on ATAbook and you don't see your message yet, I haven't been able to manually approve it. Make sure to double check someone hasn't already claimed the spot. You might be problematic. The media might be problematic. Your already in three categories. Etc, etc, etc.
+###### *"Why haven't I been added yet?"* Lots of possibilities. It takes time for me to update. Resend incase the website glitched and I didn't see it. If you submitted on ATAbook and you don't see your message yet, I haven't been able to manually approve it. Make sure to double check someone hasn't already claimed the spot. You might be problematic. The media might be problematic. Your already in three categories. Etc, etc, etc.
 
 ###### *"How do I request a name change or remove myself from this?* Fill out the form again with your current category and user and specify what you want changed.
 
@@ -74,7 +74,7 @@ Feel free to start nominating though for characters on straw or ata, if you want
 <p align="center"> Prettiest Ponies (Examples encouraged, not required I js like looking at pretty ponies lol)
 <p align="center"> Most Creative Ponies (Pictures preferred, there needs to be INNOVATION)
 <p align="center"> Most Generous (People who give lots of gifts. Someone else has to nominate you for this. Don't nominate yourself.)
-<p align="center"> Prettiest Githubs (They must be super pretty, I have high Github standards for no discernable reason)
+<p align="center"> Prettiest Githubs (They must be super pretty, I have high Github standards for no discernable reason :P)
 <p align="center"> Coolest Githubs (They must be super cool, I have high Github standards for no discernable reason :P)
 <p align="center"> Online 24/7 (Someone else has to nominate you for this. Don't nominate yourself.)
 <p align="center"> Cuddliest players (Someone else has to nominate you for this. Don't nominate yourself.)
