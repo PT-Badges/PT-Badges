@@ -5,7 +5,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://hits.sh/github.com/PT-Badges.svg?style=plastic&label=CoolPeople&extraCount=25&labelColor=9cabec&color=f6d58f" alt="Visitor count"> 
+  <img src="https://hits.sh/github.com/PT-Badges.svg?style=plastic&label=CoolPeople&extraCount=25&labelColor=9cabec&color=f6d58f&textColor=White" alt="Visitor count"> 
 
 # Welcome to Ponytown's Badges!
 
