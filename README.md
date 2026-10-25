@@ -9,7 +9,7 @@
 
 # Welcome to Ponytown's Badges!
 
-##### Last updated: (Grand Opening at 8PM EST 10/25)
+##### Last updated: (Grand Opening at 10PM EST 10/25)
 
 This account is for fun and to celebrate all the awesome people on Ponytown! If you get nominated, you get a small virtual badge you can put onto your profile! :D I intend to try to update twice a week until I go the way of most of my predecessors, autistic burnout.
 
@@ -61,7 +61,7 @@ ATAbook link:
 
 WIP WIP WIP
 
-## Grand Opening planned for 8PM EST 10/25
+## Grand Opening planned for 10PM EST 10/25
 
 Feel free to start nominating though for characters on straw or ata, if you want :D 
 
