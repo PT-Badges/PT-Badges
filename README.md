@@ -69,19 +69,19 @@ Feel free to start nominating though for characters on straw or ata, if you want
 
 <div id="header" align="center">
 
-### List of categories currently being made, you can nominate yourself unless it specifies otherwise, feel free to suggest more ideas that you want:
-Character Titles (Person is x character)
-Prettiest Ponies (Examples encouraged, not required I js like looking at pretty ponies lol)
-Most Creative Ponies (Pictures preferred, there needs to be INNOVATION)
-Most Generous (People who give lots of gifts. Someone else has to nominate you for this. Don't nominate yourself.)
-Prettiest Githubs (They must be super pretty, I have high Github standards for no discernable reason)
-Coolest Githubs (They must be super cool, I have high Github standards for no discernable reason :P)
-Online 24/7 (Someone else has to nominate you for this. Don't nominate yourself.)
-Cuddliest players (Someone else has to nominate you for this. Don't nominate yourself.)
-Most Talkative Players (Someone else has to nominate you for this. Don't nominate yourself.)
-Whimsical Players (Full of Whimsy)
+#### List of categories currently being made, you can nominate yourself unless it specifies otherwise, feel free to suggest more ideas that you want:
+<p align="center"> Character Titles (Person is x character)
+<p align="center"> Prettiest Ponies (Examples encouraged, not required I js like looking at pretty ponies lol)
+<p align="center"> Most Creative Ponies (Pictures preferred, there needs to be INNOVATION)
+<p align="center"> Most Generous (People who give lots of gifts. Someone else has to nominate you for this. Don't nominate yourself.)
+<p align="center"> Prettiest Githubs (They must be super pretty, I have high Github standards for no discernable reason)
+<p align="center"> Coolest Githubs (They must be super cool, I have high Github standards for no discernable reason :P)
+<p align="center"> Online 24/7 (Someone else has to nominate you for this. Don't nominate yourself.)
+<p align="center"> Cuddliest players (Someone else has to nominate you for this. Don't nominate yourself.)
+<p align="center"> Most Talkative Players (Someone else has to nominate you for this. Don't nominate yourself.)
+<p align="center"> Whimsical Players (Full of Whimsy)
 
-### List of categories I likely won't add:
-Yumeships (Yumeshippers are cool but my hands are full with the character titles tbh)
-Duos/Friendships (I don't wanna step on the accounts dedicated to those toes, also a group badge for more than three people sounds like hell to make 0-0)
+#### List of categories I likely won't add:
+<p align="center"> Yumeships (Yumeshippers are cool but my hands are full with the character titles tbh)
+<p align="center"> Duos/Friendships (I don't wanna step on the accounts dedicated to those toes, also a group badge for more than three people sounds like hell to make 0-0)
 
