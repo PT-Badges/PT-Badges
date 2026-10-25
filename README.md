@@ -25,7 +25,7 @@ You can nominate on either the [Atabook](https://badgetown.atabook.org/) or on [
 <p align="center"> 3. Do NOT put @ in front of user's name, it will prevent it from sending on strawpage.
 <p align="center"> 4. You can nominate yourself or someone else for a character title. Someone else might have to nominate you for other categories.
 <p align="center"> 5. Don't Spam, spam will be ignorred.
-<p align="center"> 6. No problematic people will be added. If problematic someone was added, click on the next tab below to report them.
+<p align="center"> 6. No problematic people will be added. If someone problematic was added, click on the next tab below to report them.
 
 ###### *Q&A* - 
 
