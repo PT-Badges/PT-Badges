@@ -9,7 +9,7 @@
 
 # Welcome to Ponytown's Badges!
 
-##### Last updated: (Grand Opening at 10PM EST 10/25)
+##### Last updated: (Grand Opening at 10PM EST 10/26)
 
 This account is for fun and to celebrate all the awesome people on Ponytown! If you get nominated, you get a small virtual badge you can put onto your profile! :D I intend to try to update twice a week until I go the way of most of my predecessors, autistic burnout.
 
@@ -18,6 +18,7 @@ This account is for fun and to celebrate all the awesome people on Ponytown! If 
 
 <summary> Click Here for Rules! </summary>
 
+<br>
 You can nominate on either the [Atabook](https://badgetown.atabook.org/) or on [Strawpage](https://badgetown.straw.page), whichever you prefer. 
 
 <p align="center"> 1. Make sure to include the github.
@@ -37,9 +38,13 @@ You can nominate on either the [Atabook](https://badgetown.atabook.org/) or on [
 
 </details>
 
+<br>
+
 <details>
 
 <summary> Want to Report someone? Click here! </summary>
+
+<br>
 
 Please let me know if someone listed is problematic. It is impossible for me to know what is in all media or all interactions someone has outside of what's on people's GH profiles, so the help would be appreciated. I am more likely to see your report on ATAbook, since strawpage is buggy and has a word limit. So, please send your reports to the ATAbook. I have the settings on the ATA set to manual approval so it will not be seen by anyone else.
 
@@ -56,12 +61,13 @@ ATAbook link:
 ###### *"Will you tell me why X was removed?"* - No, to protect people's privacy we will not be sharing to people why someone was removed.
 
 </details>
+<br>
 
 #### UNFINISHED
 
 WIP WIP WIP
 
-## Grand Opening planned for 10PM EST 10/25
+## Grand Opening planned for 10PM EST 10/26
 
 Feel free to start nominating though for characters on straw or ata, if you want :D 
 
