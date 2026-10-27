@@ -9,7 +9,7 @@
 
 # Welcome to Ponytown's Badges!
 
-##### Last updated: (Grand Opening at 10PM EST 10/26)
+##### Last updated: (Very sorry for the wait, I am still finishing this, I just need to finish the badges)
 
 This account is for fun and to celebrate all the awesome people on Ponytown! If you get nominated, you get a small virtual badge you can put onto your profile! :D I intend to try to update twice a week until I go the way of most of my predecessors, autistic burnout.
 
@@ -67,7 +67,7 @@ ATAbook link:
 
 WIP WIP WIP
 
-## Grand Opening planned for 10PM EST 10/26
+## Grand Opening planned for 10PM EST 10/28
 
 Feel free to start nominating though for characters on straw or ata, if you want :D 
 
@@ -85,7 +85,8 @@ Feel free to start nominating though for characters on straw or ata, if you want
 <p align="center"> Online 24/7 (Someone else has to nominate you for this. Don't nominate yourself.)
 <p align="center"> Cuddliest players (Someone else has to nominate you for this. Don't nominate yourself.)
 <p align="center"> Most Talkative Players (Someone else has to nominate you for this. Don't nominate yourself.)
-<p align="center"> Whimsical Players (Full of Whimsy)
+<p align="center"> Whimsical Players (Fun players full of Whimsy)
+<p align="center"> Underrated Players (Idk what to put here it's kinda selfexplanatory)
 
 #### List of categories I likely won't add:
 <p align="center"> Yumeships (Yumeshippers are cool but my hands are full with the character titles tbh)
