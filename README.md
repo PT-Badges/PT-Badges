@@ -9,7 +9,9 @@
 
 # Welcome to Ponytown's Badges!
 
-##### Last updated: (Very sorry for the wait, I am still finishing this, I just need to finish the badges)
+##### LAST UPDATED: (Very sorry for the wait, I am still finishing this, I just need to finish the badges)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 This account is for fun and to celebrate all the awesome people on Ponytown! If you get nominated, you get a small virtual badge you can put onto your profile! :D I intend to try to update twice a week until I go the way of most of my predecessors, autistic burnout.
 
@@ -19,7 +21,8 @@ This account is for fun and to celebrate all the awesome people on Ponytown! If 
 <summary> Click Here for Rules! </summary>
 
 <br>
-You can nominate on either the [Atabook](https://badgetown.atabook.org/) or on [Strawpage](https://badgetown.straw.page), whichever you prefer. 
+
+You can nominate on either the [Atabook](https://badgetown.atabook.org/) or on [Strawpage](https://badgetown.straw.page/), whichever you prefer. 
 
 <p align="center"> 1. Make sure to include the github.
 <p align="center"> 2. Make sure you spelt the user's github right otherwise I won't be able to find them.
@@ -67,7 +70,7 @@ ATAbook link:
 
 WIP WIP WIP
 
-## Grand Opening planned for 10PM EST 10/28
+## Grand Opening planned for 10PM EST 10/30
 
 Feel free to start nominating though for characters on straw or ata, if you want :D 
 
